@@ -91,15 +91,7 @@ Dashboard Features:
 - Expand stock option and reward programs.
 - Use predictive analytics for proactive retention planning.
 
-## 📂 Project Structure
 
-Employee-Attrition-Analysis/
-│
-├── data/
-├── notebooks/
-├── dashboard/
-├── images/
-└── README.md
 
 ## 🚀 Results
 
